@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class PowerCalculator {
 
+  //there are some comments 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
